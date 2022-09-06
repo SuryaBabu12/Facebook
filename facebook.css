@@ -1,0 +1,124 @@
+body{
+    /* margin: 0;
+    padding: 0; */
+    background-color: #f0f2f5;
+}
+
+.main{
+    margin-top: 175px;
+}
+img{
+   width:300px;
+   height:100px;
+   margin-left:160px; 
+   border-radius: 10px;
+ 
+    
+}
+p{
+    margin:0;
+    font-size: 30px;
+    line-height: 28px;
+    margin-left:200px; 
+   font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+   }
+   table{
+       border: "1";
+   }
+   .soorya{
+
+       width: 350px;
+       height: 332px;
+       margin-left:760px ;
+       margin-top: -200px;
+       /* float: right; */
+       margin-right: 100px;
+       background-color: white;
+       border-style: solid;
+       border-width: 1px;
+       border-radius: 7px;
+       /* box-shadow: 1px 1px 3px black; */
+       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+   }
+   .aaa{
+       width:300px;
+       height: 40px;
+       border-radius: 10px;
+       padding-left: 10px;
+       margin-top: 10px;
+       border-color: #1877f2;
+   }
+   .dd{
+       background-color: #1877f2;
+       width:338px;
+       height: 40px;
+       border-radius: 6px;
+       color: white;
+       border: none;
+       font-size: 17px;
+       margin-left: 6px;
+
+
+       
+   }
+   .cc{
+       background-color: #42b72a;
+       width: 200px;
+       height: 40px;
+       margin-left: 68px;
+       border-radius: 10px;
+       border: none;
+       color: white;
+       font-size: 15px;
+       margin-top: 10px;
+   }
+   #ff{
+       color: rgb(15, 126, 244);
+       width: 80px;
+       height: 100px;
+       margin-left: 90px;
+   }
+.cr{
+    width: 300px;
+    height: 300px;
+    margin-left:820px ;
+    margin-top: 10px;
+    /* float: right; */
+    margin-right: -425px;
+    font-size: small;
+}
+input[type="text"],input[type="password"]{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #dddfe2;
+    margin-left: 6px;
+    width: 338px;
+    height: 55px;
+    font-size: large;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+.fld1{
+    border-width: 1px;
+    border-style: solid;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+}
+input[type="button"]{
+    cursor: pointer;
+    height: 50px;
+}
+input[type="text"]:focus,input[type="password"]:focus{
+    border-color:#1877f2 ;
+    outline: none;
+
+}
+
+
